@@ -46,6 +46,44 @@ Optionally, configure the script before running (e.g., modifying the configurati
 
 Use at your own risk! Do not run before you understood the code.
 
+### Guidelines
+
+Here are some strategies and tools you can use to manage bloat without risking system integrity:
+
+- Regular Maintenance Commands:
+
+sudo apt autoremove: This command removes packages that were automatically installed to satisfy dependencies for other packages and are no longer needed.
+
+sudo apt clean: This command cleans up the local repository of downloaded package files.
+Managing Logs:
+
+Journalctl: You can use journalctl to manage logs more effectively. For example, journalctl --vacuum-size=100M will limit the size of the logs to 100MB. You can also set up a cron job to regularly clean up logs.
+
+- Disable Unnecessary Logging: Some services might have options to disable logging or reduce the verbosity of logs. Check the documentation for these services.
+
+#### Cleaning Up After Applications:
+
+- Manual Cleanup: After uninstalling an application, check common locations like /var/log, /var/cache, and your home directory for any lingering files. Be cautious and ensure these files are not critical before deleting them.
+
+- Use Specific Tools: Some applications might leave configuration files in your home directory. These are usually hidden and can be found using find or by manually checking directories like ~/.config and ~/.local/share.
+
+- Automated Cleanup Tools:
+
+- BleachBit: This is a system cleaner that can delete various types of files that are no longer needed, including cache, cookies, and temporary files.
+
+### Preventative Measures:
+
+- Be Selective with Software: When installing new software, consider whether you really need it and if it's necessary for your workflow.
+Use Lightweight Alternatives: If bloat is a major concern, consider using lightweight versions of applications or different software that is known for being less resource-intensive.
+
+### System Configuration:
+
+- Tweak System Settings: Depending on your system and usage, you might be able to tweak settings to reduce the amount of logging or cache generation.
+
+### Backup and Restore:
+
+Use Snapshots or Backups: Before making significant changes to your system, consider using tools like Timeshift to create a snapshot. This way, if something goes wrong, you can restore your system to a previous state.
+
 ### Packages
 
 Here's a brief overview of each individual package (optionally) removed from your System and their purpose:
