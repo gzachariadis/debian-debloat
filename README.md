@@ -380,5 +380,6 @@ Here's a brief overview of each individual package (optionally) removed from you
 
 - zip | A compression utility used for creating ZIP archives. It’s widely used to package multiple files and directories into a single compressed file for easy distribution and storage.
 
+- ubuntu-desktop | The ubuntu-desktop package is a meta-package that installs all the core components required for a typical Ubuntu Desktop environment.
 
-
+- ubuntu-session | The ubuntu-session package defines the session configuration for the Ubuntu Desktop, specifically the settings related to the user’s graphical login session.
