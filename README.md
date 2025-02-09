@@ -383,3 +383,15 @@ Here's a brief overview of each individual package (optionally) removed from you
 - ubuntu-desktop | The ubuntu-desktop package is a meta-package that installs all the core components required for a typical Ubuntu Desktop environment.
 
 - ubuntu-session | The ubuntu-session package defines the session configuration for the Ubuntu Desktop, specifically the settings related to the user’s graphical login session.
+
+- Firefox | Firefox is a popular open-source web browser developed by Mozilla.
+  
+- gnome-todo | GNOME To Do is a simple task management application for the GNOME desktop environment.
+  
+- gnome-maps | GNOME Maps is a map and navigation application for the GNOME desktop.
+
+- Evolution | Evolution is a comprehensive personal information management tool, primarily known as an email client for Linux-based systems
+  
+- Quadrapa | "Quadrapa" might refer to a game or puzzle app.
+
+
