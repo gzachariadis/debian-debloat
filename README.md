@@ -1,4 +1,4 @@
-# Debian Debloating Script
+# Debloating Script
 
 Here's a brief overview of each individual package (optionally) removed from your System and their purpose:
 
