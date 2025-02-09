@@ -175,3 +175,20 @@ Here's a brief overview of each individual package (optionally) removed from you
 - Printer Driver M2300W | Driver package specifically for the Brother MFC-2300W printer, enabling Linux users to print and scan from the device.
 
 - Printer Driver PTouch | Printer driver for Brother P-Touch label printers.
+
+- GNOME 2048 | Tile-based puzzle game in which the player merges tiles with the same number to form larger numbers, ultimately trying to reach the tile with the number 2048.
+
+- Five or More | Classic puzzle game where the player must align five or more like-colored balls in a row to remove them from the grid.
+
+- Four in a Row | Strategy game, similar to Connect Four, where the player attempts to align four of their colored pieces in a row (either horizontally, vertically, or diagonally).
+
+- Hitori | Logic-based number puzzle game where the player must fill in cells to eliminate repeated numbers in each row and column, while also ensuring that no two black cells are adjacent.
+
+- Iagno | Computerized version of the game Reversi (also known as Othello), where two players take turns placing pieces on the board.
+
+- GNOME Chess | Chess game for the GNOME desktop environment; it provides a graphical interface for playing chess.
+
+- GNOME Taquin | Sliding puzzle game similar to the 15-puzzle, where the goal is to arrange the shuffled tiles into their correct order by sliding them into an empty space.
+
+
+
