@@ -12,7 +12,7 @@ The main goal of this script is to provide a simple, efficient, and configurable
 - Safe Defaults: The script focuses on non-critical packages—those that aren't essential for core system functionality—so your system won't break.
 - Easy to Use: A simple command-line script that requires minimal configuration to get started.
 
-Benefits
+### Benefits
 
 - Reduced System Footprint: Removing unneeded packages can save valuable disk space.
 - Improved Performance: A leaner system may lead to improved boot times, faster system performance, and reduced resource consumption.
