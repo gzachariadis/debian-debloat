@@ -12,6 +12,14 @@ The main goal of this script is to provide a simple, efficient, and configurable
 - Safe Defaults: The script focuses on non-critical packages—those that aren't essential for core system functionality—so your system won't break.
 - Easy to Use: A simple command-line script that requires minimal configuration to get started.
 
+#### Important Notes
+
+- Backup: Always backup important data before running any script that modifies your system.
+- Compatibility: While this script is designed to work on most Debian-based distributions, it is important to verify compatibility with your specific setup.
+- Dependencies: The script may require root privileges to remove system packages. Run the script with sudo if necessary.
+
+Use at your own risk! Do not run before you understood the code.
+
 ### Benefits
 
 - Reduced System Footprint: Removing unneeded packages can save valuable disk space.
@@ -36,15 +44,6 @@ chmod +x debloat-gui.sh
 ```
 
 Optionally, configure the script before running (e.g., modifying the configuration file to include or exclude specific packages).
-
-
-#### Important Notes
-
-- Backup: Always backup important data before running any script that modifies your system.
-- Compatibility: While this script is designed to work on most Debian-based distributions, it is important to verify compatibility with your specific setup.
-- Dependencies: The script may require root privileges to remove system packages. Run the script with sudo if necessary.
-
-Use at your own risk! Do not run before you understood the code.
 
 ### Guidelines
 
@@ -83,11 +82,6 @@ Use Lightweight Alternatives: If bloat is a major concern, consider using lightw
 ### Backup and Restore:
 
 Use Snapshots or Backups: Before making significant changes to your system, consider using tools like Timeshift to create a snapshot. This way, if something goes wrong, you can restore your system to a previous state.
-
-### Packages
-
-Here's a brief overview of each individual package (optionally) removed from your System and their purpose:
-
 
 
 
