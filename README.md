@@ -4,14 +4,6 @@ This script is designed to help users streamline their Linux systems by removing
 
 The main goal of this script is to provide a simple, efficient, and configurable solution for users looking to "de-bloat" their systems, removing software packages and services that aren’t strictly required for day-to-day use, resulting in a leaner and more performance-efficient system.
 
-### Features
-
-- Distro-agnostic: Works across different distributions using `apt` (though optimized for Debian-based systems).
-- Target Audience: Primarily targets at unnecessary packages in **Debian** and its derivatives, ensuring the system still remains functional.
-- Customizable: You can configure the script to remove specific packages or leave certain packages untouched, giving you full control over which software stays or goes.
-- Safe Defaults: The script focuses on non-critical packages—those that aren't essential for core system functionality—so your system won't break.
-- Easy to Use: A simple command-line script that requires minimal configuration to get started.
-
 #### Important Notes
 
 - Backup: Always backup important data before running any script that modifies your system.
@@ -19,12 +11,6 @@ The main goal of this script is to provide a simple, efficient, and configurable
 - Dependencies: The script may require root privileges to remove system packages. Run the script with sudo if necessary.
 
 Use at your own risk! Do not run before you understood the code.
-
-### Benefits
-
-- Reduced System Footprint: Removing unneeded packages can save valuable disk space.
-- Improved Performance: A leaner system may lead to improved boot times, faster system performance, and reduced resource consumption.
-- Clean Installation: It helps in starting fresh by removing bloated software that typically comes pre-installed in certain Linux distributions.
 
 ### Usage
 
