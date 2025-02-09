@@ -46,9 +46,9 @@ Optionally, configure the script before running (e.g., modifying the configurati
 
 Use at your own risk! Do not run before you understood the code.
 
-Here's a brief overview of each individual package (optionally) removed from your System and their purpose:
+### Packages
 
-<br>
+Here's a brief overview of each individual package (optionally) removed from your System and their purpose:
 
 - XTerm+Thai | A variant of the XTerm terminal emulator that includes additional support for displaying Thai characters.
 
