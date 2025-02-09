@@ -35,12 +35,13 @@ Optionally, configure the script before running (e.g., modifying the configurati
 
 Here are some strategies and tools you can use to manage bloat without risking system integrity:
 
-- Regular Maintenance Commands:
+#### Regular Maintenance Commands:
 
 sudo apt autoremove: This command removes packages that were automatically installed to satisfy dependencies for other packages and are no longer needed.
 
 sudo apt clean: This command cleans up the local repository of downloaded package files.
-Managing Logs:
+
+#### Managing Logs:
 
 Journalctl: You can use journalctl to manage logs more effectively. For example, journalctl --vacuum-size=100M will limit the size of the logs to 100MB. You can also set up a cron job to regularly clean up logs.
 
