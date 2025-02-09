@@ -100,6 +100,7 @@ firefox
 firefox-esr
 firefox-locale-en
 five-or-more
+flameshot
 fonts-beng
 fonts-beng-extra
 fonts-droid-fallback
@@ -147,7 +148,6 @@ geary
 gedit
 gigolo
 gimp
-mutter
 gimp-help-common
 gimp-help-en
 gimp-help-sv
@@ -173,21 +173,18 @@ gnome-orca
 gnome-robots
 gnome-screensaver
 gnome-screenshot
+gnome-shell-extension-parental-controls
 gnome-sound-recorder
 gnome-sudoku
 gnome-system-monitor
-gnome-system-tools
 gnome-taquin
 gnome-tetravex
+gnome-text-editor
 gnome-themes-extra
 gnome-themes-extra-data
 gnome-todo
 gnome-todo-common
-gnome-tweaks
 gnome-video-effects
-gnome-screenshot
-flameshot
-shutter
 gnote
 gnu-efi
 goldendict
@@ -475,6 +472,7 @@ msfpc
 mtr-tiny
 mugshot
 mutt
+mutter
 mythes-de
 mythes-de-ch
 mythes-en-au
@@ -572,6 +570,7 @@ set
 sgt-puzzles
 shotwell
 shotwell-common
+shutter
 simple-scan
 skipfish
 sleuthkit
