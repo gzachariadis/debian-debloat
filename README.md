@@ -88,38 +88,6 @@ Use Snapshots or Backups: Before making significant changes to your system, cons
 
 Here's a brief overview of each individual package (optionally) removed from your System and their purpose:
 
-- ncurses-term | Provides terminal definitions for ncurses, a library that supports text-based user interfaces. This package ensures proper terminal behavior on different terminal types (e.g., xterm, vt100).
-
-- pidentd | Daemon used for handling ident requests. It helps identify the user associated with a specific connection (based on the RFC 1413 standard).
-
-- usbutils | Set of tools for managing and displaying information about USB devices connected to the system. It includes lsusb, which shows a list of connected USB devices.
-
-- gnome-software | A graphical software management tool for GNOME, enabling users to discover, install, and update software packages.
-
-- malcontent | A library that integrates privacy features with GNOME, helping applications track and enforce privacy-related settings.
-
-- uim | A framework for input method management in UNIX-like systems, allowing users to enter text in various languages through customizable input methods.
-
-- uim-xim | A plugin for uim that allows it to work with the X Input Method (XIM) protocol, enabling better integration with X-based applications.
-
-- im-config | A tool for configuring input methods on Linux systems, making it easier to select and manage different input methods.
-
-- fcitx5-data | Contains data files for fcitx5, a popular input method framework for Linux that supports various languages.
-
-- fcitx-bin | The core components and binary files required to run the fcitx5 input method framework.
-
-- fcitx-module-dbus | A DBus module for the fcitx5 input method framework, enabling communication between the input method and other applications.
-
-- fcitx-config-common | Common configuration files for the fcitx5 framework, used for setting up input methods on Linux systems.
-
-
-
-
-
-
-
-
-
 
 
 
