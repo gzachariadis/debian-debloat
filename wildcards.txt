@@ -1,1 +1,8 @@
 *libreoffice*
+fonts-samyak-*
+fonts-lohit-*
+fonts-kacst*
+fonts-smc-*
+fonts-tlwg*
+fonts-tlwg-*
+bluez*
