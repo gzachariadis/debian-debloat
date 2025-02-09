@@ -2,7 +2,7 @@ imagemagick
 goldendict
 kasumi
 xiterm+thai
-xterm mlterm
+xtermmlterm
 thunderbird
 cheese
 gnome-klotski
@@ -34,12 +34,12 @@ gnome-calendar
 celluloid
 gnome-logs
 gnome-power-manager
-purge onboard
+onboard
 warpinator
 aisleriot
-brltty   
+brltty
 duplicity
-empathy  
+empathy
 empathy-common
 example-content
 gnome-accessibility-themes
@@ -61,13 +61,13 @@ libreoffice-pdfimport
 libreoffice-style-galaxy
 libreoffice-style-human
 libreoffice-writer
-libsane  
+libsane
 libsane-common
 python3-uno
 rhythmbox-plugins
 rhythmbox-plugin-zeitgeist
 sane-utils
-shotwell 
+shotwell
 shotwell-common
 telepathy-gabble
 telepathy-haze
@@ -76,7 +76,7 @@ telepathy-indicator
 telepathy-logger
 telepathy-mission-control-5
 telepathy-salut
-totem    
+totem
 totem-common
 totem-plugins
 printer-driver-brlaser
