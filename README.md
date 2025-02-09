@@ -394,4 +394,72 @@ Here's a brief overview of each individual package (optionally) removed from you
   
 - Quadrapa | "Quadrapa" might refer to a game or puzzle app.
 
+- gnome-software | A graphical software management tool for GNOME, enabling users to discover, install, and update software packages.
 
+- xterm | A terminal emulator for the X Window System, allowing users to run command-line applications and manage terminal sessions.
+
+- mlterm-common | Provides common files for the MLTerm terminal emulator, which offers advanced features for multi-language support.
+
+- mlterm | A terminal emulator that supports various encodings and advanced features for displaying different languages and character sets.
+
+- mlterm-tiny | A lightweight version of the MLTerm terminal emulator, designed for minimal resource usage while still supporting multilingual features.
+
+- malcontent | A library that integrates privacy features with GNOME, helping applications track and enforce privacy-related settings.
+
+- uim | A framework for input method management in UNIX-like systems, allowing users to enter text in various languages through customizable input methods.
+
+- uim-data | Contains additional data files for the uim input method framework, supporting more languages and input methods.
+
+- uim-mozc | An input method module for uim, enabling the use of Mozc, a Japanese input method based on Google Japanese Input.
+
+- uim-xim | A plugin for uim that allows it to work with the X Input Method (XIM) protocol, enabling better integration with X-based applications.
+
+- im-config | A tool for configuring input methods on Linux systems, making it easier to select and manage different input methods.
+
+- mozc-data | Contains the language data required by the Mozc input method for efficient Japanese text input.
+
+- mozc-utils-gui | Provides a graphical interface for managing the Mozc input method settings, offering customization options for the user.
+
+- fcitx5-data | Contains data files for fcitx5, a popular input method framework for Linux that supports various languages.
+
+- fcitx-bin | The core components and binary files required to run the fcitx5 input method framework.
+
+- fcitx-module-dbus | A DBus module for the fcitx5 input method framework, enabling communication between the input method and other applications.
+
+- fcitx-config-common | Common configuration files for the fcitx5 framework, used for setting up input methods on Linux systems.
+
+- hunspell | A spell checker and morphological analyzer designed to support various languages, used in many applications for text correction.
+
+- vino | A VNC server for GNOME, allowing remote desktop access to your system over a network using the VNC protocol.
+
+- anthy | An input method for typing Japanese text, primarily used with the uim input method framework or other compatible frameworks.
+
+- pidgin | A multi-protocol instant messaging client, allowing users to chat with friends across various messaging services in a unified interface.
+
+remmina | A remote desktop client that supports multiple protocols like RDP, VNC, SSH, and more for accessing remote systems.
+
+eog | Eye of GNOME, a lightweight image viewer for GNOME that supports various formats and provides basic image editing capabilities.
+
+brasero | A disk burning application for GNOME, used to burn CDs and DVDs and create ISO images.
+
+brasero-common | Contains the common files needed by the Brasero disk burning application, such as templates and configuration data.
+
+sound-juicer | A CD ripping tool for GNOME that allows users to extract audio tracks from CDs and convert them to digital formats.
+
+gnome-sound-recorder | A simple sound recording application for GNOME, enabling users to record audio from microphones or other input devices.
+
+deja-dup | A backup tool for GNOME, providing a simple and intuitive interface for backing up and restoring files and directories.
+
+yelp | A help viewer for GNOME, used to display documentation in various formats like HTML and Mallard, integrated with GNOME applications.
+
+evince-common | Common files for the Evince document viewer, which allows users to view PDFs, PostScript, and other document formats.
+
+evince | A document viewer for GNOME that supports multiple formats such as PDF, PostScript, and EPUB, providing an easy-to-use interface for reading.
+
+firefox-esr | The Extended Support Release (ESR) version of Firefox, offering a more stable and long-term supported version of the browser suitable for enterprise environments.
+
+gimp-help-sv | Swedish language documentation for GIMP, a popular open-source image editing tool.
+
+gimp-help-common | Common documentation files for GIMP, providing help guides and tutorials for users of the image editing software.
+
+gimp | GNU Image Manipulation Program, an open-source graphics editor used for tasks like photo retouching, image composition, and graphic design.
