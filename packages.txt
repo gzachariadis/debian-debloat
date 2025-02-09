@@ -655,7 +655,6 @@ vim-common
 vim-tiny
 vino
 voiphopper
-w3m
 wafw00f
 wamerican
 wapiti
