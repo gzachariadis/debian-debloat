@@ -70,6 +70,23 @@ Use Lightweight Alternatives: If bloat is a major concern, consider using lightw
 
 Use Snapshots or Backups: Before making significant changes to your system, consider using tools like Timeshift to create a snapshot. This way, if something goes wrong, you can restore your system to a previous state.
 
+### Sources
+
+- [x] https://github.com/puneetred/KaliDebloat
+- [X] https://github.com/basilky/mint-mini
+- [x] https://github.com/anyblabla/mint-minimal
+- [x] https://archive.org/details/6f632f6d616e2f6d616e310a2e2f64
+- [x] https://github.com/TubbyCat/popos_scripts/blob/main/debloat.sh
+- [x] https://github.com/ket0x4/fedora-kde-debloat/blob/main/debloat.sh
+- [x] https://drive.google.com/file/d/1t0j2Gvswhh-RRCk2nKdjXKnm-DqSzMI9/view
+- [x] https://github.com/ChrisTitusTech/minimal-mint
+- [x] https://github.com/CodeWithAlamin/Debian-12-debloater
+- [x] https://github.com/LostByteSoft/Debian-10
+- [x] https://github.com/AzizEmir/Debian-12-Debloat
+- [x] https://gist.github.com/demirdegerli/b7087c84ef55a1909c21e4966659a2ba
+- [x] https://gist.github.com/NickSeagull/ed43a80db6a54d69ded3e18f8babaf19
+- [x] https://gist.github.com/k0nsl/757087ad16f2e21b9b2161958369fd33#file-debian-unnecessary-packages-sh
+- [x] https://github.com/aaron-dev-git/Linux-Mint-Debloater
 
 
 
